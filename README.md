@@ -1,4 +1,4 @@
-![alt text](https://cdn.lowgif.com/medium/5c096b19299e2ab7-github-shallmentmo-line-dot-background-use-canvas-as.gif)
+# Hello
 <!--
 **alexx6/alexx6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
